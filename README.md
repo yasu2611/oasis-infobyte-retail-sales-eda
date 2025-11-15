@@ -1,3 +1,18 @@
+![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Data%20Analytics-black)
+![Project Level](https://img.shields.io/badge/Level-1-darkred)
+![Language](https://img.shields.io/badge/Language-Python-black)
+![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+![Category](https://img.shields.io/badge/Category-EDA-blue)
+![Dataset](https://img.shields.io/badge/Data-Retail-lightgrey)
+![Visualization](https://img.shields.io/badge/Charts-Matplotlib%20%7C%20Seaborn-green)
+
+
+![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Internship%202025-blueviolet)
+![Track](https://img.shields.io/badge/Track-Data%20Analytics-blue)
+![Project](https://img.shields.io/badge/Project-1-green)
+
+
 📊 Retail Sales Data – Exploratory Data Analysis (EDA)
 📌 Project Overview
 
