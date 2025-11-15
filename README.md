@@ -1,66 +1,80 @@
 📊 Retail Sales Data – Exploratory Data Analysis (EDA)
+📌 Project Overview
 
-📌 Project Overview 
-
-This project focuses on performing Exploratory Data Analysis (EDA) on retail sales data to identify trends, patterns, and insights that can help businesses make better decisions.
-The analysis includes data cleaning, descriptive statistics, sales trends, customer behavior, and visualizations.
+This project focuses on performing Exploratory Data Analysis (EDA) on retail sales data.
+The goal is to understand sales patterns, customer behavior, product demand, and time-based trends that can help retailers make better business decisions.
 
 🎯 Objectives
 
-Clean and prepare the dataset
-Understand product-wise and customer-wise sales
-Analyse sales trends over time
-Generate visual insights
-Provide meaningful recommendations
+Clean and prepare the retail dataset
 
-🧹 1. Data Cleaning
+Analyze sales by month, products, and customer segments
 
-Performed the following cleaning steps:
-Removed duplicates
+Identify patterns and trends
+
+Visualize insights using charts
+
+Provide recommendations based on findings
+
+🧹 Step 1: Data Cleaning
+
+Tasks completed:
+
 Handled missing values
-Fixed incorrect data types
-Standardized column names
-Converted date fields properly
 
-📊 2. Data Analysis
+Removed duplicates
 
-Included:
-Descriptive statistics
-Monthly/annual sales trend analysis
-Product performance
-Customer purchase behavior
-Revenue breakdown
+Corrected data types (dates, numbers, categories)
 
-📉 3. Visualizations
+Formatted columns for consistency
 
-Charts created:
-Line chart – sales over time
-Bar chart – top-selling products
-Pie chart – customer segmentation
-Heatmap – correlation between variables
-Histogram – distribution of sales
+📊 Step 2: Data Analysis
 
-🛠️ Tools & Libraries Used
+Performed:
+
+Descriptive statistics (mean, median, mode, std)
+
+Monthly/ yearly sales trend analysis
+
+Top-selling products
+
+Customer segment analysis
+
+Revenue patterns
+
+📉 Step 3: Visualizations
+
+Created charts such as:
+
+Line chart (sales over time)
+
+Bar chart (top-selling products)
+
+Heatmap (correlation between features)
+
+Pie chart (customer segments)
+
+🤖 Tools & Libraries Used
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook / Google Colab
 
 📁 Project Files
 
-Retail_Sales_EDA.ipynb – complete analysis notebook
-dataset.csv – retail sales data
-README.md – project description
+retail_sales_eda.ipynb → full code notebook
 
-📝 Key Insights
+dataset.csv → retail dataset
 
-Certain months show higher sales → plan promotions accordingly.
-Few products contribute the biggest share of revenue → keep them in stock.
-Customer segment patterns help with targeted marketing.
-Time series analysis reveals seasonal sales behavior.
+README.md → project explanation
 
 ✅ Conclusion
 
